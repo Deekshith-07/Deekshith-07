@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Python opensource library for Robot Framework**
 
-- 🌱 I’m currently learning **Advanced Python**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **deekshithpoojary355@gmail.com**
 
