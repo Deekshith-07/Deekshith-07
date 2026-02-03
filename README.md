@@ -115,6 +115,6 @@
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deekshith-poojary98&show_icons=true&locale=en" alt="deekshith-poojary98" />
+  <img src="https://helio-github-stats.vercel.app/api?username=deekshith-poojary98&custom_title=GitHub+Stats&theme=transparent&title_color=f77300&text_color=ffffff&icon_color=ffff00&ring_color=00ff00&border_color=00ffff&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
 </p> 
 
