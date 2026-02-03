@@ -111,21 +111,10 @@
 
 <h3 align="left">Statistics:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deekshith-poojary98&show_icons=true&locale=en&layout=compact" alt="deekshith-poojary98" />
+ <img src="https://github-streak-stats-ruby.vercel.app/?user=deekshith-poojary98&theme=transparent&hide_border=false&border_radius=4.5&locale=en&short_numbers=true&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de deekshith-poojary98" width="466" height="194" loading="lazy" />
 </p>
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deekshith-poojary98&show_icons=true&locale=en" alt="deekshith-poojary98" />
 </p> 
 
-<!-- <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deekshith-poojary98&" alt="deekshith-poojary98" />
-</p> -->
-
-<!--
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deekshith-poojary98" alt="deekshith-poojary98" />
-  </a>
-</p>
--->
