@@ -11,10 +11,8 @@
 
 <br>
 
-- 🔭 I’m currently working on **Python opensource library for Robot Framework**
-
-- 🌱 I’m currently learning **C#**
-
+- 🔭 I’m currently working on **personal hobby projects**
+- 🌱 I’m currently learning **Go lang**
 - 📫 How to reach me **deekshithpoojary355@gmail.com**
 
 
@@ -115,6 +113,6 @@
 </p>
 
 <p align="left">
-<img src="https://helio-github-stats.vercel.app/api?username=deekshith-poojary98&custom_title=GitHub+Stats&theme=transparent&title_color=2f80ed&text_color=78b5ff&icon_color=4c71f2&ring_color=00ff00&border_color=0000ff&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api?username=deekshith-poojary98&custom_title=GitHub+Stats&theme=transparent&title_color=2f80ed&text_color=78b5ff&icon_color=4c71f2&ring_color=00ff00&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
 </p> 
 
