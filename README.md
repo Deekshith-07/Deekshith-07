@@ -30,11 +30,8 @@
 <br>
 
 <h1 align="left">📊 Statistics:</h1>
-<p align="left">
- <img src="https://github-streak-stats-ruby.vercel.app/?user=deekshith-poojary98&theme=transparent&hide_border=false&border_radius=4.5&locale=en&short_numbers=true&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de deekshith-poojary98" width="466" height="194" loading="lazy" />
-</p>
 
-<p align="left">
-<img src="https://helio-github-stats.vercel.app/api?username=deekshith-poojary98&custom_title=GitHub+Stats&theme=transparent&title_color=2f80ed&text_color=78b5ff&icon_color=4c71f2&ring_color=00ff00&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" />
-</p> 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=deekshith-poojary98&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=deekshith-poojary98&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deekshith-poojary98&layout=compact&theme=radical)
 
